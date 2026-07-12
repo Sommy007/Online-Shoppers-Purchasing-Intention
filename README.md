@@ -20,6 +20,25 @@ Authors: C. O. Sakar and Yomi Kastro
 Year: 2018  
 DOI / Reference: https://doi.org/10.24432/C5F88Q
 
+## Methodology
+The project follows a structured machine learning workflow:  
+* Data Overview/collection
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Analysis
+* Model Selection and Evaluation
+
+## Key Findings
+* Customers are likely to shop during the workday than during the weekend. Purchases are highly seasonal, with the highest revenue occuring in November, suggesting a strong end-of-year shopping effect. May also shows high visitor activity, but with a lower purchase conversion compared to November.
+* Returning visitors accounts for most purchases, showing a stronger tendency to convert compared to the new visitors. This highlights the importance of customer retention in increasing online shopping revenue.
+* Business appears to depend heavily on few traffic channels and a few geographic markets to generate revenue. Marketing efforts should prioritize optimizing the highest-performing traffic sources while exloring opportunities to grow customer engagement in underrepresented regions.
+* Browser2 and Operating system 2 represent the primary platforms through which customers access the website, contributing the largest share of both visitor sessions and purchases. This implies that optimiziing the website for these platforms could enhance user experience, improve customer satisfaction, and support higher conversion rate.
+* While product page views and sessions duration strongly predict conversion, a distinct segment of highly engaged, non-converting users exists as extreme outliers. Addressing user friction within these prolonged, non-converting sessions represents our highest-leverage opportunity to unlock bottlenecked funnel velocity and capture unrealized revenue.
+* The value of the page customers visited strongly deterrmine whether they end up shopping online.
+* There is a strong, linear positive correlation between Bounce and exit rates. From the data analysis, keeping both rates strictly below 5% is a mandatory prerequisite for conversion.
+* Informational pages are necessary for customer trust, but dragging users deep into informational content correlates with lower conversion rates. Also, visiting administrative pages is necessary to complete a purchase, but excessive time spent on them is a major indicator of checkout friction.
+* Proximity to a holiday causers a surge in window-shopping, which dilutes the overall conversion rate.
 
 ## Tech Stack
 Programming Language: Python  
