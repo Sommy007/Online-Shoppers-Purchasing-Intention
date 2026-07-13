@@ -38,7 +38,7 @@ The project follows a structured machine learning workflow:
 * The value of the page customers visited strongly deterrmine whether they end up shopping online.
 * There is a strong, linear positive correlation between Bounce and exit rates. From the data analysis, keeping both rates strictly below 5% is a mandatory prerequisite for conversion.
 * Informational pages are necessary for customer trust, but dragging users deep into informational content correlates with lower conversion rates. Also, visiting administrative pages is necessary to complete a purchase, but excessive time spent on them is a major indicator of checkout friction.
-* Proximity to a holiday causers a surge in window-shopping, which dilutes the overall conversion rate.
+* Proximity to a holiday causes a surge in window-shopping, which dilutes the overall conversion rate.
 
 ## Tech Stack
 Programming Language: Python  
